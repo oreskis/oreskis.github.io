@@ -936,7 +936,7 @@ h6 {
 }
 
 .bg-img-4 {
-  background-image: url(".../images/slider.png");
+  background-image: url("../images/slider.png");
   background-position: center bottom;
 }
 
